@@ -17,6 +17,6 @@ I'm a developer who loves building full-stack web applications and retro games f
 ---
 
 ### 📫 Connect With Me
-* 💼 **LinkedIn**: [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/arshdeep-singh-24810b186/))
+* 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/arshdeep-singh-24810b186/)
 * 🌐 **Portfolio / Website**: [My Portfolio](https://arsh2deep.github.io/Portfolio/)
 * 📧 **Email**: deeparsh7781@gmail.com
